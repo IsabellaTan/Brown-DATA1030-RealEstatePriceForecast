@@ -2,4 +2,8 @@
 .ipynb_checkpoints
 # Ignore large dataset files
 data/*.csv
+data/*.zip
+*.csv
 *.zip
+# Ignore Kaggle API key (just in case)
+kaggle.json
